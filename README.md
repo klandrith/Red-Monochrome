@@ -13,20 +13,20 @@ Install Monochrome look-and-feel for KDE: https://gitlab.com/pwyde/monochrome-kd
 Follow instructions on that page (with the exception of GTK theme).<br/>
 <br/>
 
-##### GTK 2/3 Theme
+#### GTK 2/3 Theme
 
 Install GTK theme (Red-Monochrome folder) into /usr/share/themes/<br/>
 **GTK Theme MUST go into system wide folder!**
 <br/>
 <br/>
 
-##### Aurorae
+#### Aurorae
 
 Place aurorae themes (Red-Monochrome/Red-MonochromeBlur folders) into<br/>
 ~/.local/share/aurorae/themes/<br/>
 <br/>
 
-##### Kvantum
+#### Kvantum
 
 Install Kvantum and Kvantum Manager for Kvantum theme support...<br/>
 Place Monochrome Kvantum theme folder somewhere in your home directory,<br/>
@@ -37,29 +37,29 @@ Ensure that under KDE System Settings/Application Style that<br/>
 'kvantum' is selected.<br/>
 <br/>
 
-##### Color scheme
+#### Color scheme
 
 Place color-scheme file into ~/.local/share/color-schemes/<br/>
 <br/>
 
-##### Icons
+#### Icons
 
 Place icons theme (Sardi-Flexible-Red-Black-Tron folder) into<br/>
 ~/.local/share/icons/<br/>
 <br/>
 
-##### Konsole
+#### Konsole
 
 Place konsole color scheme file in ~/.local/share/konsole/<br/>
 <br/>
 
-##### Plasma theme
+#### Plasma theme
 
 Place plasma theme (Red-Monochrome folder) into<br/>
 ~/.local/share/plasma/desktoptheme/<br/>
 <br/>
 
-##### Latte-dock
+#### Latte-dock
 
 For Latte-dock you will need the following widgets:<br/>
   * Event Calendar<br/>
@@ -69,7 +69,7 @@ Simply import the latte dock layout file and select it...<br/>
 I am also using the TodoList plasma widget: https://store.kde.org/p/1152230<br/>
 <br/>
 
-##### Spicetify
+#### Spicetify
 
 In order to theme Spotify, you need spicetify-cli: https://github.com/khanhas/spicetify-cli<br/>
 Once it is installed, place the theme folder (Red-Black-Monochrome) into<br/>
@@ -82,7 +82,7 @@ Run spicetify update<br/>
 Run spicetify apply<br/>
 <br/>
 
-##### XAVA
+#### XAVA
 
 XAVA can be downloaded here: https://github.com/nikp123/xava<br/>
 Place XAVA config file in ~/.config/xava<br/>
@@ -104,7 +104,7 @@ Add the following properties:<br/>
 Add XAVA to your startup applications<br/>
 <br/>
 
-##### Parachute
+#### Parachute
 
 Parachute can be downloaded here: https://github.com/tcorreabr/Parachute<br/>
 Place parachute.desktop file in /usr/share/applications/<br/>
@@ -113,7 +113,7 @@ To enable screen-edge support for Parachute, download ToggleParachute<br/>
 https://store.kde.org/p/1372470<br/>
 <br/>
 
-##### Conky
+#### Conky
 
 For conky run install-conky.sh<br/>
 <br/>
@@ -127,7 +127,7 @@ tag may or may not display correctly depending on how the output of hwinfo is<br
 formatted for your CPU.<br/>
 <br/>
 
-##### Todo
+#### Todo
 
   * Icon pack needs to be finished <br/>
   * Make an SDDM theme <br/>
