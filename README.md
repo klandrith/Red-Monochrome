@@ -1,6 +1,6 @@
 # Red-Monochrome
 
-[Preview](https://github.com/klandrith/Red-Monochrome/preview.png)
+![alt text](https://github.com/klandrith/Red-Monochrome/blob/main/preview.png?raw=true)
 
 A Red/Black/Monochrome for KDE
 Theme is not in a finished state...
