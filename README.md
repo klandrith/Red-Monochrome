@@ -95,6 +95,7 @@ Todo:
 
   Icon pack needs to be finished
   Finalize color scheme
+  Match Kvantum color scheme to Plasma color scheme
   Implement a Look-and-Feel theme pack
 
 Original Monochrome Theme: https://gitlab.com/pwyde/monochrome-kde
