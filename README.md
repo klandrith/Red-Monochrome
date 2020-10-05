@@ -45,8 +45,8 @@ Place plasma theme (Red-Monochrome folder) into<br/>
 <br/>
 <br/>
 For Latte-dock you will need the following widgets:<br/>
-  * Event Calendar
-  * Media Player +
+  * Event Calendar <br/>
+  * Media Player + <br/>
 Simply import the latte dock layout file and select it...<br/>
 <br/>
 <br/>
@@ -57,7 +57,7 @@ In order to theme Spotify, you need spicetify-cli: https://github.com/khanhas/sp
 Once it is installed, place the theme folder (Red-Black-Monochrome)<br/>
 into ~/.config/spicetify/Themes/<br/>
 Change your config.ini (~/config/spicetify/config.ini) so that...<br/>
-  * current_theme           = Red-Black-Monochrome
+  * current_theme           = Red-Black-Monochrome <br/>
 <br/>
 Run spicetify update<br/>
 Run spicetify apply<br/>
@@ -69,16 +69,16 @@ Launch XAVA, place the window where you want it and size it<br/>
 accordingly. Click the window menu icon, go to<br/>
 More Actions/Configure Special Application Settings<br/>
 Add the following properties:<br/>
-  * Position (Force)
-  * Size (Force)
-  * Keep Below (Force - yes)
-  * Skip taskbar (Force - yes)
-  * Skip pager (Force - yes)
-  * Skip switcher (Force - yes)
-  * No titlebar and frame (Frame - yes)
-  * Focus stealing prevention (Force - Extreme)
-  * Accept Focus (Force - no)
-  * Set window type (Force - Normal Window)
+  * Position (Force) <br/>
+  * Size (Force) <br/>
+  * Keep Below (Force - yes) <br/>
+  * Skip taskbar (Force - yes) <br/>
+  * Skip pager (Force - yes) <br/>
+  * Skip switcher (Force - yes) <br/>
+  * No titlebar and frame (Frame - yes) <br/>
+  * Focus stealing prevention (Force - Extreme) <br/>
+  * Accept Focus (Force - no) <br/>
+  * Set window type (Force - Normal Window) <br/>
 <br/>
 Add XAVA to your startup applications<br/>
 <br/>
@@ -104,11 +104,11 @@ formatted for your CPU.<br/>
 <br/>
 <br/>
 Todo:<br/>
-  * Icon pack needs to be finished
-  * Make an SDDM theme
-  * Finalize color scheme
-  * Match Kvantum color scheme to Plasma color scheme
-  * Implement a Look-and-Feel theme pack
+  * Icon pack needs to be finished <br/>
+  * Make an SDDM theme <br/>
+  * Finalize color scheme <br/>
+  * Match Kvantum color scheme to Plasma color scheme <br/>
+  * Implement a Look-and-Feel theme pack <br/>
 <br/>
 <br/>
 
