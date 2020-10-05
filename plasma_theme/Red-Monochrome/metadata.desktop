@@ -1,0 +1,29 @@
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[BlurBehindEffect]
+enabled=false
+
+[Wallpaper]
+defaultWallpaperTheme=pc-master-race
+defaultFileSuffix=.jpg
+defaultWidth=3840
+defaultHeight=2160
+
+[Desktop Entry]
+Name=Red-Monochrome
+Comment=A Red plasma theme based on the Monochrome plasma theme by Patrik Wyde
+X-KDE-PluginInfo-Author=Kyle Landrith
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=plasmashell
+X-KDE-PluginInfo-Email=klandrith007@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Red-Monochrome
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/klandrith/Red-Monochrome
+X-Plasma-API=5.0
+FallbackTheme=Monochrome

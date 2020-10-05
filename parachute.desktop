@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Parachute
+Comment=Launches Parachute Virtual Desktop Overview and Switcher
+Exec=qdbus org.kde.kglobalaccel /component/kwin invokeShortcut Parachute
+Icon=workspace-switcher
+Terminal=false
+Type=Application
+Categories=Utilities;

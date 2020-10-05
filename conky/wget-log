@@ -1,0 +1,16 @@
+--2019-12-26 01:28:19--  https://open.spotify.com/image/8370d9bc434e5c8b12528b9dcd192898a32c0935
+Resolving open.spotify.com (open.spotify.com)... 35.186.224.30
+Connecting to open.spotify.com (open.spotify.com)|35.186.224.30|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://o.scdn.co/image/8370d9bc434e5c8b12528b9dcd192898a32c0935 [following]
+--2019-12-26 01:28:19--  http://o.scdn.co/image/8370d9bc434e5c8b12528b9dcd192898a32c0935
+Resolving o.scdn.co (o.scdn.co)... 151.101.40.246, 2a04:4e42:a::246
+Connecting to o.scdn.co (o.scdn.co)|151.101.40.246|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46635 (46K) [image/jpeg]
+Saving to: ‘/home/kyle/.config/conky/last_album_pic.png’
+
+     0K .......... .......... .......... .......... .....     100% 1.06M=0.04s
+
+2019-12-26 01:28:20 (1.06 MB/s) - ‘/home/kyle/.config/conky/last_album_pic.png’ saved [46635/46635]
+
