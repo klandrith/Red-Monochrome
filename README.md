@@ -18,6 +18,14 @@ Install GTK theme (Red-Monochrome folder) into /usr/share/themes/
 Place aurorae themes (Red-Monochrome/Red-MonochromeBlur folders) into
 ~/.local/share/aurorae/themes/
 
+Install Kvantum and Kvantum Manager for Kvantum theme support...
+Place Monochrome Kvantum theme folder somewhere in your home directory,
+Open Kvantum Manager and add the directory to each individual theme;
+Monochrome, MonochromeBlur, MonochromeSolid. Install the themes.
+Select that Kvantum theme that you wish to use (I am using Monochrome).
+Ensure that under KDE System Settings/Application Style that
+'kvantum' is selected.
+
 
 Place color-scheme file into ~/.local/share/color-schemes/
 
