@@ -56,7 +56,7 @@ I am also using the TodoList plasma widget: https://store.kde.org/p/1152230
 <br/>
 In order to theme Spotify, you need spicetify-cli: https://github.com/khanhas/spicetify-cli  
 Once it is installed, place the theme folder (Red-Black-Monochrome)  
-into ~/.config/spicetify/Themes/  
+into ~/.config/spicetify/Themes/<br/>
 Change your config.ini (~/config/spicetify/config.ini) so that...  
   * current_theme           = Red-Black-Monochrome  
 <br/>
