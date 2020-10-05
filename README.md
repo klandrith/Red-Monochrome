@@ -7,14 +7,14 @@ Theme is not in a finished state...<br/>
 <br/>
 <br/>
 ## Installation/Configuration
-<br/>
+
 To use items in their state as-is...<br/>
 Install Monochrome look-and-feel for KDE: https://gitlab.com/pwyde/monochrome-kde<br/>
 Follow instructions on that page (with the exception of GTK theme).<br/>
 <br/>
 <br/>
 Install GTK theme (Red-Monochrome folder) into /usr/share/themes/<br/>
-**GTK Theme MUST go into system wide folder!**<br/>
+**GTK Theme MUST go into system wide folder!**
 <br/>
 <br/>
 Place aurorae themes (Red-Monochrome/Red-MonochromeBlur folders) into<br/>
@@ -70,16 +70,16 @@ Launch XAVA, place the window where you want it and size it<br/>
 accordingly. Click the window menu icon, go to<br/>
 More Actions/Configure Special Application Settings<br/>
 Add the following properties:<br/>
-  * Position (Force)<br/>
-  * Size (Force)<br/>
-  * Keep Below (Force - yes)<br/>
-  * Skip taskbar (Force - yes)<br/>
-  * Skip pager (Force - yes)<br/>
-  * Skip switcher (Force - yes)<br/>
-  * No titlebar and frame (Frame - yes)<br/>
-  * Focus stealing prevention (Force - Extreme)<br/>
-  * Accept Focus (Force - no)<br/>
-  * Set window type (Force - Normal Window)<br/>
+* Position (Force)<br/>
+* Size (Force)<br/>
+* Keep Below (Force - yes)<br/>
+* Skip taskbar (Force - yes)<br/>
+* Skip pager (Force - yes)<br/>
+* Skip switcher (Force - yes)<br/>
+* No titlebar and frame (Frame - yes)<br/>
+* Focus stealing prevention (Force - Extreme)<br/>
+* Accept Focus (Force - no)<br/>
+* Set window type (Force - Normal Window)<br/>
 <br/>
 Add XAVA to your startup applications<br/>
 <br/>
@@ -112,7 +112,9 @@ Todo:<br/>
   * Implement a Look-and-Feel theme pack<br/>
 <br/>
 <br/>
-### Acknowledgments
+
+## Acknowledgments
+
 <br/>
 Original Monochrome Theme: https://gitlab.com/pwyde/monochrome-kde<br/>
 Original Monochrome Theme Author: Patrik Wyde<br/>
