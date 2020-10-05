@@ -112,7 +112,7 @@ Todo:<br/>
   * Implement a Look-and-Feel theme pack<br/>
 <br/>
 <br/>
-## Acknowledgments
+### Acknowledgments
 <br/>
 Original Monochrome Theme: https://gitlab.com/pwyde/monochrome-kde<br/>
 Original Monochrome Theme Author: Patrik Wyde<br/>
