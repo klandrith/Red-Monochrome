@@ -5,7 +5,6 @@
 A Red/Black/Monochrome theme for KDE<br/>
 Theme is not in a finished state...<br/>
 <br/>
-<br/>
 ## Installation/Configuration
 
 To use items in their state as-is...<br/>
