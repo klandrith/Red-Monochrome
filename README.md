@@ -2,7 +2,7 @@
 <br/>
 ![Preview](https://github.com/klandrith/Red-Monochrome/blob/main/preview.png?raw=true)
 <br/>
-A Red/Black/Monochrome for KDE  
+A Red/Black/Monochrome theme for KDE  
 Theme is not in a finished state...  
 <br/>
 <br/>
