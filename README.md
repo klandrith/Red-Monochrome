@@ -100,6 +100,7 @@ Active Window Control will take a little configuration,<br/>
 *Keyboard Shortcuts*<br/>
   * Set to whatever you wants...<br/>
   
+  
 I am also using the TodoList plasma widget for one my desktop:<br/>
 https://store.kde.org/p/1152230<br/>
 <br/>
