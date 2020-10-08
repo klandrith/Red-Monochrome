@@ -55,8 +55,11 @@ Place plasma theme (Red-Monochrome folder) into<br/>
 For Latte-dock you will need the following widgets:<br/>
   * Event Calendar<br/>
   * Media Player +<br/>
+  * Active Window Control<br/>
 
 Simply import the latte dock layout file and select it...<br/>
+Active Window Control will take a little configuration, you<br/>
+can find info on this via youtube.<br/>
 I am also using the TodoList plasma widget: https://store.kde.org/p/1152230<br/>
 <br/>
 
@@ -123,7 +126,7 @@ formatted for your CPU.<br/>
   * Make an install script<br/>
 <br/>
 
-### Acknowledgments
+## Acknowledgments
 
 <br/>
 Original Monochrome Theme: https://gitlab.com/pwyde/monochrome-kde<br/>
