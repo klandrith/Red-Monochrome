@@ -60,9 +60,9 @@ For Latte-dock you will need the following widgets:<br/>
 Simply import the latte dock layout file and select it...<br/>
 Active Window Control will take a little configuration,<br/>
 <br/>
-*Here are my settings for Active Window Control*<br/>
+Here are my settings for Active Window Control<br/>
 <br/>
-*Appearance*>br/>
+*Appearance*<br/>
   * Fill width unchecked<br/>
   * Fill width slider on 1st position from zero<br/>
   * Fine tuning at 38.0 (may need to adjust)<br/>
@@ -98,9 +98,10 @@ Active Window Control will take a little configuration,<br/>
   * Enable application menu disabled<br/>
   
 *Keyboard Shortcuts*<br/>
-  * Set to whatever you wants...<br/>
-  
-I am also using the TodoList plasma widget for one my desktop:<br/>
+  * Set to whatever you want...<br/>
+ 
+<br/>
+I am also using the TodoList plasma widget for on my desktop:<br/>
 https://store.kde.org/p/1152230<br/>
 <br/>
 
@@ -168,6 +169,9 @@ formatted for your CPU.<br/>
 <br/>
 
 ## Acknowledgments
+Much credit goes to the original authors of the base components that<br/>
+made this theme possible. Licenses, when provided, for individual components<br/>
+are viewable in each subdirectory of the components.<br/>
 
 <br/>
 Original Monochrome Theme: https://gitlab.com/pwyde/monochrome-kde<br/>
