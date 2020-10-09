@@ -77,7 +77,7 @@ Here are my settings for Active Window Control<br/>
   
 *Buttons*<br/>
   * Enable control buttons checked<br/>
-  * Button order *MUST* be left to default<br/>
+  * Button order **MUST** be left to default<br/>
   * Do not hide on mouse out checked<br/>
   * Show only when maximized checked<br/>
   * Buttons next to icon and text checked<br/>
@@ -86,7 +86,7 @@ Here are my settings for Active Window Control<br/>
   * Position set to Upper right<br/>
   * Button size set to 1st position from maximum size<br/>
   * Button spacing set to 6th position<br/>
-  * Path to aurorae theme set to: /home/kyle/.local/share/aurorae/themes/Red-Monochrome/<br/>
+  * Path to aurorae theme set to: /home/YOUR-USER-NAME/.local/share/aurorae/themes/Red-Monochrome/<br/>
   
 *Mouse Control*<br/>
   * Doubleclick to toggle maximizing<br/>
