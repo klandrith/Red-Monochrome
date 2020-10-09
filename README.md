@@ -173,15 +173,12 @@ formatted for your CPU.<br/>
 *made this theme possible.*<br/>
 Licenses, when provided, for individual components<br/>
 are viewable in each subdirectory of the components.<br/>
-
 <br/>
 Original Monochrome Theme: https://gitlab.com/pwyde/monochrome-kde<br/>
 Original Monochrome Theme Author: Patrik Wyde<br/>
 <br/>
-<br/>
 Original Sardi Icon Pack: https://github.com/erikdubois/Sardi-Extra<br/>
 Original Sardi Icon Pack Author: Erik Dubois<br/>
-<br/>
 <br/>
 Original Conky Theme: https://github.com/erikdubois/Aureola<br/>
 Original Conky Theme Author: Erik Dubois<br/>
