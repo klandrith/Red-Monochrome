@@ -152,7 +152,7 @@ For conky run install-conky.sh<br/>
 Parameters in the conky.conf file may need adjusting for your particular setup...<br/>
 Conky will display either 'Ethernet' or 'Wifi' depending on the connection that<br/>
 is detected. You may need to change the wireless and ethernet adapter names in<br/>
-conky.conf file. In addition, if you are using an Nvidia GPU that support fan<br/>
+conky.conf file. In addition, if you are using an Nvidia GPU that supports fan<br/>
 RPM reading, you will need to change that field as well. My GT 1030 for my host<br/>
 does not support that, so I had to do some math to calculate RPM. CPU model<br/>
 tag may or may not display correctly depending on how the output of hwinfo is<br/>
@@ -169,8 +169,9 @@ formatted for your CPU.<br/>
 <br/>
 
 ## Acknowledgments
-Much credit goes to the original authors of the base components that<br/>
-made this theme possible. Licenses, when provided, for individual components<br/>
+*Much credit goes to the original authors of the base components that*<br/>
+*made this theme possible.*<br/>
+Licenses, when provided, for individual components<br/>
 are viewable in each subdirectory of the components.<br/>
 
 <br/>
