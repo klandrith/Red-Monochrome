@@ -55,52 +55,9 @@ Place plasma theme (Red-Monochrome folder) into<br/>
 For Latte-dock you will need the following widgets:<br/>
   * Event Calendar<br/>
   * Media Player +<br/>
-  * Active Window Control<br/>
   * Latte separator<br/>
 
 Simply import the latte dock layout file and select it...<br/>
-Active Window Control will take a little configuration,<br/>
-<br/>
-Here are my settings for Active Window Control<br/>
-<br/>
-*Appearance*<br/>
-  * Fill width unchecked<br/>
-  * Fill width slider on 1st position from zero<br/>
-  * Fine tuning at 38.0 (may need to adjust)<br/>
-  * Hide titlebar for maximized windows checked<br/>
-  * Show window title unchecked<br/>
-  * Show window icon unchecked<br/>
-  * Window icon on the right unchecked<br/>
-  * Default text settings<br/>
-  
-*Behavior*<br/>
-  * Show active window only for plasmoid's screen unchecked<br/>
-  
-*Buttons*<br/>
-  * Enable control buttons checked<br/>
-  * Button order **MUST** be left to default<br/>
-  * Do not hide on mouse out checked<br/>
-  * Show only when maximized checked<br/>
-  * Buttons next to icon and text checked<br/>
-  * Dynamic width checked<br/>
-  * Sliding icon and text unchecked<br/>
-  * Position set to Upper right<br/>
-  * Button size set to 1st position from maximum size<br/>
-  * Button spacing set to 6th position<br/>
-  * Path to aurorae theme set to: /home/YOUR-USER-NAME/.local/share/aurorae/themes/Red-Monochrome/<br/>
-  
-*Mouse Control*<br/>
-  * Doubleclick to toggle maximizing<br/>
-  * Middle click disabled<br/>
-  * Mouse wheel up to maximize unchecked<br/>
-  * Mouse wheel down disabled<br/>
-  
-*Application Menu*<br/>
-  * Enable application menu disabled<br/>
-  
-*Keyboard Shortcuts*<br/>
-  * Set to whatever you want...<br/>
- 
 <br/>
 I am also using the TodoList plasma widget for on my desktop:<br/>
 https://store.kde.org/p/1152230<br/>
