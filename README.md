@@ -56,6 +56,7 @@ For Latte-dock you will need the following widgets:<br/>
   * Event Calendar<br/>
   * Media Player +<br/>
   * Active Window Control<br/>
+  * Latte separator<br/>
 
 Simply import the latte dock layout file and select it...<br/>
 Active Window Control will take a little configuration,<br/>
